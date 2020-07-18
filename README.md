@@ -17,45 +17,45 @@ Here are some ideas to get you started:
 🔭 **I’m currently working on:** <br/>
 Mobile apps development using Xamarin Forms which is a framework for creating Cross-platform native mobile apps
 
-🛠️ **I build using: **<br/>
+🛠️ **I build using: ** <br/>
 <p align="left">
   <a href="https://twitter.com/themsguy_">
-    <img src="ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://twitter.com/themsguy_">
-    <img src="ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="ColoredBadges/svg/dev/frameworks/xamarin_android.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_android.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="ColoredBadges/svg/dev/frameworks/xamarin_ios.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_ios.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 </p>
 
-💻 **I’m currently learning: **<br/>
+💻 **I’m currently learning: ** <br/>
 
 💬 **Ask me about: ** <br/>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://twitter.com/themsguy_">
-    <img src="ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://twitter.com/themsguy_">
-    <img src="ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 
 
-🔌 **Connect with me via: **<br/>
+🔌 **Connect with me via: ** <br/>
 <p align="left">
   <a href="https://twitter.com/themsguy_">
-    <img src="ColoredBadges/svg/social/twitter.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/social/twitter.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="ColoredBadges/svg/social/linkedin.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/social/linkedin.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 </p>
