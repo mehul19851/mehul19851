@@ -20,19 +20,19 @@ Mobile apps development using Xamarin Forms which is a framework for creating Cr
 🛠️ **I build using: ** <br/>
 <p align="left">
   <a href="https://twitter.com/themsguy_">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://twitter.com/themsguy_">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_android.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/frameworks/xamarin_android.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_ios.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/frameworks/xamarin_ios.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 </p>
 
@@ -40,22 +40,22 @@ Mobile apps development using Xamarin Forms which is a framework for creating Cr
 
 💬 **Ask me about: ** <br/>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://twitter.com/themsguy_">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://twitter.com/themsguy_">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 
 
 🔌 **Connect with me via: ** <br/>
 <p align="left">
   <a href="https://twitter.com/themsguy_">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/social/twitter.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/social/twitter.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
   <a href="https://www.linkedin.com/in/themsguy">
-    <img src="https://github.com/mehul19851/mehul19851/ColoredBadges/svg/social/linkedin.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
+    <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/social/linkedin.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 </p>
